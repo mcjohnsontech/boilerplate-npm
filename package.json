@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mark Abiodun",
+	"description": "A project that does something awesome",
+	"keywords": [ "NPM, Express, beginner", "Nodejs, FreeCodeCamp", "NOW I'M WORKING ON KEYWORDS" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
