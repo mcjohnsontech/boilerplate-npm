@@ -2,9 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mark Abiodun",
 	"description": "A project that does something awesome",
-	"keywords": [ "NPM, Express, beginner", "Nodejs, FreeCodeCamp", "NOW I'M WORKING ON KEYWORDS" ],
+	"keywords": [
+		"freecodecamp",
+		"Nodejs freecodecamp",
+		"now i'm working on keyword freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0",
+		"@freecodecamp/example": "~1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
